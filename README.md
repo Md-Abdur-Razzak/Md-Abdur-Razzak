@@ -1,16 +1,24 @@
 <img src="https://i.ibb.co/5WVf855/Green-Black-Modern-Personal-Linked-In-Banner.png" />
 
-## About Me 
+## About Me :
 
 <p>"I am a dedicated web developer, with a focus on front-end development. I have expertise in various technologies such as HTML/HTML5, CSS/CSS3, Tailwind CSS, JavaScript, Firebase, React.js, JWT, Express.js, Node.js, and MongoDB. This enables me to bring a diverse skill set to develop effective and engaging web applications.I provide services in communication, research, LinkedIn lead generation, and social media management. Client satisfaction is my top priority. I am self-motivated, versatile, and work well in a team"</p>
 
 ## Current Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Md-Abdur-Razzak&theme=prussian&card_width=1200&type=png)](https://git.io/streak-stats)
+## Connect me :
+<div>
+    <a href="https://www.facebook.com/raju.aumed"><img width="50" src="https://i.ibb.co/RzthbqB/facebook.png"/></a>
+    <a href="https://www.linkedin.com/in/md-abdur-razzak57/">
+    <img width="50" src="https://i.ibb.co/17L04rk/linkdinpng.png"/>
+    </a>
 
-## 💻 technology that I know
+</div>
+
+## 💻 technology that I know :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,mongo,express)](https://skillicons.dev)
 
-## Github Status
+## Github Status :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Abdur-Razzak&theme=zenburn)
 
 
