@@ -9,6 +9,9 @@
 ## Connect me :
 <div>
     <a href="https://www.facebook.com/raju.aumed"><img width="50" src="https://i.ibb.co/RzthbqB/facebook.png"/></a>
+    <a href="https://discordapp.com/users/1162676823285563524">
+    <img width="50" src="https://i.ibb.co/8rVZ77r/discord.png"/>
+    </a>
     <a href="https://www.linkedin.com/in/md-abdur-razzak57/">
     <img width="50" src="https://i.ibb.co/17L04rk/linkdinpng.png"/>
     </a>
