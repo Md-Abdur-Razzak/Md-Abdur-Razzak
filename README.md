@@ -7,6 +7,16 @@
 ## Current Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Md-Abdur-Razzak&theme=prussian&card_width=1200&type=png)](https://git.io/streak-stats)
 
+## technology that I know
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,mongo,express&perline=5)](https://skillicons.dev)
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
