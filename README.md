@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Md-Abdur-Razzak/Md-Abdur-Razzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.ibb.co/5WVf855/Green-Black-Modern-Personal-Linked-In-Banner.png" />
 
 Here are some ideas to get you started:
 
