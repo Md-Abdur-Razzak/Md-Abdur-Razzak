@@ -1,7 +1,6 @@
 <img src="https://i.ibb.co/5WVf855/Green-Black-Modern-Personal-Linked-In-Banner.png" />
 
-## ![image](https://github.com/Md-Abdur-Razzak/Md-Abdur-Razzak/assets/136264270/d2605db6-3a50-45d0-9149-4664f01378fc)
- About Me 
+## About Me 
 
 <p>"I am a dedicated web developer, with a focus on front-end development. I have expertise in various technologies such as HTML/HTML5, CSS/CSS3, Tailwind CSS, JavaScript, Firebase, React.js, JWT, Express.js, Node.js, and MongoDB. This enables me to bring a diverse skill set to develop effective and engaging web applications.I provide services in communication, research, LinkedIn lead generation, and social media management. Client satisfaction is my top priority. I am self-motivated, versatile, and work well in a team"</p>
 
@@ -11,6 +10,7 @@
 ## 💻 technology that I know
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,mongo,express)](https://skillicons.dev)
 
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Md-Abdur-Razzak}&theme={theme_name}
 
 
 
