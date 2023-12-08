@@ -10,7 +10,8 @@
 ## 💻 technology that I know
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,mongo,express)](https://skillicons.dev)
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Md-Abdur-Razzak}&theme={theme_name}
+## Github Status
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Abdur-Razzak&theme=zenburn)
 
 
 
