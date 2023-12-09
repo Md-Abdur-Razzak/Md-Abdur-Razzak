@@ -6,6 +6,7 @@
 
 ## Current Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Md-Abdur-Razzak&theme=prussian&card_width=1200&type=png)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Abdur-Razzak&theme=zenburn)
 ## Connect me 
 <div>
     <a href="https://www.facebook.com/raju.aumed"><img width="50" src="https://i.ibb.co/RzthbqB/facebook.png"/></a>
@@ -20,10 +21,6 @@
 
 ## 💻 technology that I know :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,mongo,express)](https://skillicons.dev)
-
-## Github Status :
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Abdur-Razzak&theme=zenburn)
-
 
 
 
