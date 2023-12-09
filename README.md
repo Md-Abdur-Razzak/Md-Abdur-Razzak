@@ -31,7 +31,7 @@
 
 ##  Current overview
 
--🎓   Diploma in Engineering in Computer Science and Technology.
+- 🎓   Diploma in Engineering in Computer Science and Technology.
 - 💼  I’m currently working on Full Stack Development projects.
 - 🌱  Learning more about Backend and Frontend Developement.
 - 👯 I’m looking to collaborate on web developer team
