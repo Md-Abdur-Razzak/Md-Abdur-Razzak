@@ -84,5 +84,19 @@
       
    </ul>
 
+   <ul>
+    <li>   <a style="color: blue;" href="https://flourishing-speculoos-040368.netlify.app/" class="blue-link">Live Link</a> </li>
+    <li><a style="color: blue;" href="https://github.com/Md-Abdur-Razzak/T-Electronic-client" class="blue-link">Client Link</a></li></li>
+    <li><a style="color: blue;" href="https://github.com/Md-Abdur-Razzak/T-Eletronics-servse-side" class="blue-link">Server Link</a></li></li>
+       
+   
+   </ul>
+   <p>Website sort Overview : </p>
+   <ul>
+        <li>From here the user can buy the Product according to his choice.</li>
+        <li>Admin can Add ,Delete,Update,Products and can be control all users and products</li>
+        <li>Users can easily login and Register</li>
+       
+   </ul>
 
   
