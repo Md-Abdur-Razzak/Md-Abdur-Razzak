@@ -35,7 +35,7 @@
 - 💼  I’m currently working on Full Stack Development projects.
 - 🌱  Learning more about Backend and Frontend Developement.
 - 👯 I’m looking to collaborate on web developer team
-- 💬 All of my project and experience here : <a href="https://md-abdur-razzak.netlify.app/"></a>
+- 💬 All of my project and experience here : <a href="https://md-abdur-razzak.netlify.app/">https://md-abdur-razzak.netlify.app/</a>
 - 📫 Hi to reach me:[razzak445444@gmail.com](mailto:razzak445444@gmail.com)
 
 
