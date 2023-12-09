@@ -83,7 +83,6 @@
         <li>Students can borrow books according to their needs and can return.</li>
       
    </ul>
-   
 <span><b>TechElectroHub</b> : (Technology and Electronics)<span>
    <ul>
     <li>   <a style="color: blue;" href="https://flourishing-speculoos-040368.netlify.app/" class="blue-link">Live Link</a> </li>
