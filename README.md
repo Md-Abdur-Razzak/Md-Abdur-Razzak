@@ -40,3 +40,27 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Project
+
+<span>Store Shop : (Library management system)<span>
+
+   <p>Admin Email : razzak123@gmail.com<p>
+   <p>Admin password : aaaaA@<p>
+   <ul>
+    <li><a style="color: blue;" href="https://teal-clafoutis-b73476.netlify.app/" class="blue-link">Live Link </a></li>
+    <li><a style="color: blue;" href="https://github.com/Md-Abdur-Razzak/Inventory-client" class="blue-link">Client Link</a></li>
+    <li><a style="color: blue;" href="https://github.com/Md-Abdur-Razzak/Inventory-client" class="blue-link">server Link</a></li>
+       
+   
+   </ul>
+   <p>Website sort Overview : </p>
+   <ul>
+        <li>A full stack website</li>
+        <li>Protected and secured shop manager Admin dashboard.</li>
+        <li>Shop manager can add Product,delete,update and all management Products.</li>
+        <li>Admin can be control all Shop managers</li>
+   </ul>
+
+
+  
