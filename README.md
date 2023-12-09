@@ -12,7 +12,7 @@
     <a href="https://discordapp.com/users/1162676823285563524">
     <img width="50" src="https://i.ibb.co/8rVZ77r/discord.png"/>
     </a>
-    <a href="https://www.linkedin.com/in/md-abdur-razzak57/">
+    <a href="https://www.linkedin.com/in/md-abdur-razzak-5a63432a4/">
     <img width="50" src="https://i.ibb.co/17L04rk/linkdinpng.png"/>
     </a>
 
@@ -74,7 +74,9 @@
        
    
    </ul>
+   
    <p>Website sort Overview : </p>
+   
    <ul>
         <li>Admin can Add ,Delete,Update,new Books</li>
         <li>Protected and secured Admin dashboard.</li>
