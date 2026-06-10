@@ -19,7 +19,7 @@
 
 </div>
 
-## 💻 technology that I know :
+## 💻 Technology that I know :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,mongo,express)](https://skillicons.dev)
 
 
@@ -30,8 +30,8 @@
 
 - 🎓   Diploma in Engineering in Computer Science and Technology.
 - 💼  I’m currently working on Full Stack Development projects.
-- 🌱  Learning more about Backend and Frontend Developement.
-- 👯 I’m looking to collaborate on web developer team
+- 🌱  Learning more about Backend and Frontend Development.
+- 👯 I’m looking to collaborate on a web developer team
 - 💬 All of my project and experience here : <a href="https://md-abdur-razzak.netlify.app/">https://md-abdur-razzak.netlify.app/</a>
 - 📫 Hi to reach me:[razzak445444@gmail.com](mailto:razzak445444@gmail.com)
 
